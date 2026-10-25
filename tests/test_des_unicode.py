@@ -9,7 +9,7 @@ from ciphers.des_ecb import Des
         "Hello",
         "Hello \u20ac",
         "\u65e5\u672c\u8a9e",
-        "caf\u00e9",
+        "r\u00e9sum\u00e9",
         "Hello \u20ac!",
         "\U0001f600",
         "1234567\u20ac",
